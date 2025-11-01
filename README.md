@@ -1,5 +1,7 @@
 # requestformatter
-Request Formatter - Burp suite Extension
+**Request Formatter - Burp suite Extension
+**
+>A custom burpsuite extension to which helps in mapping API endpoints in FreeMind mindmaps.
 
 Step 1: Load the extension. (ensure jython is configured)
 
